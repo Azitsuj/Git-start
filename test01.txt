@@ -1,2 +1,3 @@
 test
 jeszcze raz nowa linia
+linia dodatkowa
